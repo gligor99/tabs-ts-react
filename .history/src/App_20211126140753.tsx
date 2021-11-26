@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import img from './assets/loading-icon.svg'
+import img from './assets/Blocks-1s-200px.svg'
 const url = "https://course-api.com/react-tabs-project";
 
 type DataProps = {
